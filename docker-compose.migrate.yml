@@ -1,4 +1,4 @@
-version: '2'
+version: '2.1'
 services:
   migrate_app:
     image: ubnt/ucrm-billing:latest
